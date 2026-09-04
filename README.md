@@ -186,6 +186,7 @@ Completed a structured business analytics internship program, delivering the Inv
 📩 **Email:** your.email@example.com
 💼 **LinkedIn:** [jatindra-soni](https://www.linkedin.com/in/jatindra-soni-892aaa247)
 🐙 **GitHub:** [@jatins2002](https://github.com/jatins2002)
+📸 **Instagram:** [@_jatindrasoni__](https://www.instagram.com/_jatindrasoni__/)
 
 <div align="center">
 
