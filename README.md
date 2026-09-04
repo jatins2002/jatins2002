@@ -179,17 +179,6 @@ Completed a structured business analytics internship program, delivering the Inv
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jatins2002&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatins2002&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-
-</div>
-
-
----
 
 ## Contact
 
