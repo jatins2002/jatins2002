@@ -174,9 +174,12 @@ I'm building deeper Product Analytics expertise on top of my core analytics foun
 ---
 
 ## Experience
+**Data Analyst Intern** — AiBrix
+Completed a structured data analytics internship program, working on real-world datasets using Python, SQL, Excel, and Power BI to perform data cleaning, analysis, visualization, and dashboard development for actionable business insights.
 
 **Business Analytics Intern** — Cognifyz Technologies
 Completed a structured business analytics internship program, delivering the Investment Analysis Dashboard project above (data analysis + Power BI reporting on investor behavior).
+
 
 ---
 
